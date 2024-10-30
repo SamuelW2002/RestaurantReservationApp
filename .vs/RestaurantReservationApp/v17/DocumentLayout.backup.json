@@ -3,12 +3,23 @@
   "WorkspaceRootPath": "Z:\\Projects\\RestaurantReservationApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C3E36DFE-5F45-40C4-BCF8-CEACF7987B54}|Main.Console\\Main.Console.csproj|z:\\projects\\restaurantreservationapp\\main.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3E36DFE-5F45-40C4-BCF8-CEACF7987B54}|Main.Console\\Main.Console.csproj|solutionrelative:main.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C3E36DFE-5F45-40C4-BCF8-CEACF7987B54}|Main.Console\\Main.Console.csproj|z:\\projects\\restaurantreservationapp\\main.console\\main.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{C3E36DFE-5F45-40C4-BCF8-CEACF7987B54}|Main.Console\\Main.Console.csproj|solutionrelative:main.console\\main.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3E36DFE-5F45-40C4-BCF8-CEACF7987B54}|Main.Console\\Main.Console.csproj|z:\\projects\\restaurantreservationapp\\main.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3E36DFE-5F45-40C4-BCF8-CEACF7987B54}|Main.Console\\Main.Console.csproj|solutionrelative:main.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Z:\\job_stuff\\Appointment_Application\\Main.Console\\obj\\Chipsoft.Assignments.EPDConsole.csproj.nuget.g.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99BC20DE-783B-4B32-AE9D-AA4824BE4EA7}|AppLogic\\AppLogic.csproj|z:\\projects\\restaurantreservationapp\\applogic\\interfaces\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99BC20DE-783B-4B32-AE9D-AA4824BE4EA7}|AppLogic\\AppLogic.csproj|solutionrelative:applogic\\interfaces\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99BC20DE-783B-4B32-AE9D-AA4824BE4EA7}|AppLogic\\AppLogic.csproj|z:\\projects\\restaurantreservationapp\\applogic\\services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99BC20DE-783B-4B32-AE9D-AA4824BE4EA7}|AppLogic\\AppLogic.csproj|solutionrelative:applogic\\services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,8 +28,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "DockedWidth": 390,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,9 +44,48 @@
               "Name": "ST:1128958544:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Main.Console",
+              "DocumentIndex": 2,
+              "Title": "Chipsoft.Assignments.EPDConsole.csproj.nuget.g.props",
+              "DocumentMoniker": "Z:\\job_stuff\\Appointment_Application\\Main.Console\\obj\\Chipsoft.Assignments.EPDConsole.csproj.nuget.g.props",
+              "RelativeDocumentMoniker": "..\\..\\job_stuff\\Appointment_Application\\Main.Console\\obj\\Chipsoft.Assignments.EPDConsole.csproj.nuget.g.props",
+              "ToolTip": "Z:\\job_stuff\\Appointment_Application\\Main.Console\\obj\\Chipsoft.Assignments.EPDConsole.csproj.nuget.g.props",
+              "RelativeToolTip": "..\\..\\job_stuff\\Appointment_Application\\Main.Console\\obj\\Chipsoft.Assignments.EPDConsole.csproj.nuget.g.props",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-10-30T13:36:24.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IReservationService.cs",
+              "DocumentMoniker": "Z:\\Projects\\RestaurantReservationApp\\AppLogic\\Interfaces\\IReservationService.cs",
+              "RelativeDocumentMoniker": "AppLogic\\Interfaces\\IReservationService.cs",
+              "ToolTip": "Z:\\Projects\\RestaurantReservationApp\\AppLogic\\Interfaces\\IReservationService.cs",
+              "RelativeToolTip": "AppLogic\\Interfaces\\IReservationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:03:43.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReservationService.cs",
+              "DocumentMoniker": "Z:\\Projects\\RestaurantReservationApp\\AppLogic\\Services\\ReservationService.cs",
+              "RelativeDocumentMoniker": "AppLogic\\Services\\ReservationService.cs",
+              "ToolTip": "Z:\\Projects\\RestaurantReservationApp\\AppLogic\\Services\\ReservationService.cs",
+              "RelativeToolTip": "AppLogic\\Services\\ReservationService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:02:56.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.Console.csproj",
               "DocumentMoniker": "Z:\\Projects\\RestaurantReservationApp\\Main.Console\\Main.Console.csproj",
               "RelativeDocumentMoniker": "Main.Console\\Main.Console.csproj",
               "ToolTip": "Z:\\Projects\\RestaurantReservationApp\\Main.Console\\Main.Console.csproj",
@@ -47,25 +97,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "Z:\\Projects\\RestaurantReservationApp\\Main.Console\\Program.cs",
               "RelativeDocumentMoniker": "Main.Console\\Program.cs",
               "ToolTip": "Z:\\Projects\\RestaurantReservationApp\\Main.Console\\Program.cs",
               "RelativeToolTip": "Main.Console\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T12:38:02.075Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         },
         {
-          "DockedWidth": 200,
+          "DockedWidth": 10,
           "SelectedChildIndex": -1,
           "Children": [
             {
