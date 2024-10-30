@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\Projects\\RestaurantReservationApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3E36DFE-5F45-40C4-BCF8-CEACF7987B54}|Main.Console\\Main.Console.csproj|z:\\projects\\restaurantreservationapp\\main.console\\main.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C3E36DFE-5F45-40C4-BCF8-CEACF7987B54}|Main.Console\\Main.Console.csproj|solutionrelative:main.console\\main.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3E36DFE-5F45-40C4-BCF8-CEACF7987B54}|Main.Console\\Main.Console.csproj|z:\\projects\\restaurantreservationapp\\main.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3E36DFE-5F45-40C4-BCF8-CEACF7987B54}|Main.Console\\Main.Console.csproj|solutionrelative:main.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1128958544:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.Console",
+              "DocumentMoniker": "Z:\\Projects\\RestaurantReservationApp\\Main.Console\\Main.Console.csproj",
+              "RelativeDocumentMoniker": "Main.Console\\Main.Console.csproj",
+              "ToolTip": "Z:\\Projects\\RestaurantReservationApp\\Main.Console\\Main.Console.csproj",
+              "RelativeToolTip": "Main.Console\\Main.Console.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-30T12:38:04.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Projects\\RestaurantReservationApp\\Main.Console\\Program.cs",
+              "RelativeDocumentMoniker": "Main.Console\\Program.cs",
+              "ToolTip": "Z:\\Projects\\RestaurantReservationApp\\Main.Console\\Program.cs",
+              "RelativeToolTip": "Main.Console\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:38:02.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5726b0e3-1012-5233-81f9-d1fad48e7a56}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{554c35d9-bf5e-5ffd-80de-932222077110}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{8294f124-07d1-574c-bf4d-1c4a34e31c86}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{faabacce-1340-5da9-adf5-fe7e951d356f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{9e2a04bd-6d18-5f70-b91b-f0beaa68f66e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ba2fc7a-405e-5c33-ae0c-f01f6ad6d6d7}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
