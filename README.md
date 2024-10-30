@@ -35,6 +35,7 @@ Once a class is fully operational and tested, making even minor edits could risk
   
 - **Interface Segregation**: For example: The `IReservationService` interface includes only the methods required by each calling class, making the interface leaner and the code more readable and maintainable. When additional methods are   needed by different classes, they can be added in separate interfaces.
   The ReservationService class contains 5 methods:
+  
   ![image](https://github.com/user-attachments/assets/cbe29f66-a68e-4c38-abdd-22b522b5161f)
 
   Of these 5 methods only 2 are added to the interface:
