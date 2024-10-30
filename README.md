@@ -1,2 +1,2 @@
 # RestaurantReservationApp
-A simple console app mainly focussing on practicing SOLID and other design principles
+A simple console app mainly focused on practicing SOLID and other design principles
